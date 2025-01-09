@@ -1,6 +1,3 @@
-### **README.md**
-
-```markdown
 # To-Do List Application
 
 This is a simple and user-friendly **To-Do List Application** that allows users to add, edit, and delete tasks. The tasks are stored in the browser's local storage, so they persist even after the page is refreshed or the browser is closed.
@@ -47,7 +44,12 @@ To-Do-List-App/
 
 ---
 
+## 📬 Contact
+Feel free to reach out if you have questions or suggestions:
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
 
+---
 
 ## 📝 License
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
@@ -55,8 +57,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 ---
 
 Thank you for checking out the To-Do List App! ✨
-```
 
----
-
-Replace `your-username` and `your-email@example.com` with your actual GitHub username and email address. Let me know if you need help customizing further!

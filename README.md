@@ -44,12 +44,6 @@ To-Do-List-App/
 
 ---
 
-## 📬 Contact
-Feel free to reach out if you have questions or suggestions:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-
----
 
 ## 📝 License
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.

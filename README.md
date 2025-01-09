@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your To-Do List application:
-
----
-
 ### **README.md**
 
 ```markdown
